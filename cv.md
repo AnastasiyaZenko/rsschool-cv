@@ -7,7 +7,7 @@ telegram: @Killliana
 discord: Killliana(@AnastasiyaZenko)
 
 ## About me
-I have been programming for about 1 year. During this time, I managed to work in the studio and perform a large multi-page layout project using pug, sass and js, as an assembler - gulp. In the course I want to learn how to develop in js. In the future, I plan to develop development on vue.
+I have been programming for about 1 year. During this time, I managed to work in the studio and perform a large multi-page layout project using pug, sass and JS, as an assembler - gulp. In the course I want to learn how to develop in JS. In the future, I plan to develop development on Vue.js.
 
 ## Skills
-Html; Css; Pug; Sass; Js; Gulp; BEM; Git(github); VS code; Versel; 
+HTML; CSS; Pug; Sass; JS; Gulp; BEM; Git(GitHub); VS code; Vercel; 
