@@ -1,6 +1,6 @@
 # Me
 __Anastasiya Zenko__  
-![My photo](https://github.com/AnastasiyaZenko/rsschool-cv/blob/gh-pages/fd3a9101-ec44-4ecb-b26b-ba71942b8a8a.jpeg)
+![My photo](https://github.com/AnastasiyaZenko/rsschool-cv/blob/gh-pages/image.png)
 ## Contacts
 * telegram: @Killliana
 * discord: Killliana(@AnastasiyaZenko)
